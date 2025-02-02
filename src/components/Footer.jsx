@@ -16,7 +16,7 @@ const Footer = () => {
     target="_blank"
     rel="noopener noreferrer"
   >
-    View Portfolio
+    Raghav.
   </a>
 </div> 
         <a
