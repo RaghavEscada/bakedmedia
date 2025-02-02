@@ -18,9 +18,7 @@ const Footer = () => {
   >
     View Portfolio
   </a>
-</div>
-
-       
+</div> 
         <a
           href="#privacy-policy"
           className="text-center text-sm font-light hover:underline md:text-right"
